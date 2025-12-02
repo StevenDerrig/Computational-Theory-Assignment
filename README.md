@@ -1,10 +1,13 @@
 # COMPUTATIONAL-THEORY
+
 Computational Theory Assignment
 
 ## Main GitHub assignment page:
+
 https://github.com/ianmcloughlin/computational-theory/tree/main
 
 ### Objectives
+
 - Complete 5 problems:
     1. Binary Words and Operations
         - Insert functions in python: parity, ch, maj and four sigma functions.
@@ -20,4 +23,5 @@ https://github.com/ianmcloughlin/computational-theory/tree/main
 [Insert the set up of the repo and the assignment here, step by step guide on setting up the .ipynb]
 
 ### For the .gitignore file:
+
 Went to https://www.toptal.com/developers/gitignore and input files and extensions to ignore for the repo. This keeps the repo clean and tidy.
