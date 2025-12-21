@@ -83,6 +83,7 @@ You can run all cells sequentially using Shift + Enter or  use "Run All" from th
 - `requirements.txt` - Python dependencies
 - `100k-most-used-passwords-NCSC.txt` - A master list of the most common passwords
 - `README.md` - This file
+- `exampleConversationScreenshot.png` - Screenshot demonstrating how I used gen AI
 
 ### For the .gitignore file:
 Went to https://www.toptal.com/developers/gitignore and input files and extensions to ignore for the repo. This keeps the repo clean and tidy.
