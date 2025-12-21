@@ -110,4 +110,4 @@ Some Generative AI was used in this project strictly as a **learning** and **ass
 
 ![Conversation example](exampleConversationScreenshot.png)
 
-The code written in this assessment is understood by me. The main algorithms were implemented by breaking down the specifications from the Secure Hash Standard PDF and translating them into Python code, also using the materials from the main GitHub from the assessment.
+The code written in this assessment is understood by me. The main algorithms were implemented by breaking down the specifications from the Secure Hash Standard PDF and translating them into Python code, also using the materials from the main GitHub assessment repository.
